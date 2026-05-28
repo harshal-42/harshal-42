@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshal-42
 - 👀 I’m interested in Ai
-- 🌱 I’m currently learning Devops
+- 🌱 I’m currently working Devops
 - 💞️ I’m looking to collaborate on intresting projects.
 - 📫 How to reach me.
 <!---
